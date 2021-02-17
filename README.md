@@ -3,7 +3,7 @@
 ## Description
 This project shows how you can check profile picture uploads automatically with the Google Face Recognition API.
 
-You can find the blog post to this project [here](jeds-ai.com/how-to-check-profile-picture-uploads-automatically-with-google-face-recognition-api).
+You can find the blog post to this project [here](https://jeds-ai.com/how-to-check-profile-picture-uploads-automatically-with-google-face-recognition-api).
 
 In order to get the project running you should insert your Google API-key in the ProfilePictureUploader.js file.
 
