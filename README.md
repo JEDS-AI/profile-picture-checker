@@ -1,6 +1,6 @@
 # Profile Picture Checker
 
-![alt text](https://i2.wp.com/jeds-ai.com/wp-content/uploads/2021/02/profile-picture-upload-small.gif)
+![alt text](https://i2.wp.com/jeds-ai.com/wp-content/uploads/2021/03/profile-picture-upload-small.gif)
 
 ## Description
 This project shows how you can check profile picture uploads automatically with the Google Face Recognition API.
